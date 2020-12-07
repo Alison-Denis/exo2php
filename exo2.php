@@ -12,7 +12,7 @@ $lastName= "Denis";
 $firsttName= "Alison";
 $age= "26";
 
-echo "$lastName $firsttName est âgé(e) de $age ans.";
+echo "$lastName "."$firsttName "."est âgé(e) de "."$age"."ans.";
 ?>
 
 </body>
